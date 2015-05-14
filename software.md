@@ -6,7 +6,7 @@ tagline: software from the group
 
 {% for repository in site.github.public_repositories %}
    {% if repository.has_pages %}
-{{ repository.name | slice: -8,8 }}
+{{ repository.name | slice: -8, 8 }}
 * [{{ repository.description }}](./{{ repository.name }}/) ({{ repository.watchers_count }} watchers)
 {% comment %}
 {% for entry in repository %}
