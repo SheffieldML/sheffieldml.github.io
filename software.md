@@ -6,7 +6,7 @@ tagline: software from the group
 
 {% for repository in site.github.public_repositories %}
    {% if repository.has_pages %}
-     * [{{ repository.description }}](./{{ repository.name }}) 
+* [{{ repository.description }}](./{{ repository.name }}/) 
   {% endif %}
 {% endfor %}
 
