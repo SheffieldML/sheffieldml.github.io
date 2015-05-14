@@ -5,9 +5,9 @@ tagline: software from the group
 ---
 
 {% for repository in site.github.public_repositories %}
-   {{% if repository.haspages %}
+   {% if repository.has_pages %}
      * [{{ repository.description }}](./{{ repository.name }}) 
-  {% endif %}}
+  {% endif %}
 {% endfor %}
 
 
