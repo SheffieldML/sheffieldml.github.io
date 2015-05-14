@@ -11,12 +11,6 @@ tagline: software from the group
 * [{{ repository.description }}](./{{ repository.name }}/) ({{ repository.watchers_count }} watchers)
 {% endif %}
 {% endif %}
-{% comment %}
-{% for entry in repository %}
-{{ entry }}
-{% endfor %}
-{% endcomment %}
-
 {% endfor %}
 
 
