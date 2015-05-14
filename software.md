@@ -6,7 +6,11 @@ tagline: Gaussian process software in python
 
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.pages_url }})
+  {% for entry in repository %}
+  {{ entry }}
+  {% endfor %}}
 {% endfor %}
+
 
 ### History
 
