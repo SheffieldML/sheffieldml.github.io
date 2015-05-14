@@ -5,10 +5,9 @@ tagline: Gaussian process software in python
 ---
 
 {% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.pages_url }})
-  {% for entry in repository %}
-  {{ entry }}
-  {% endfor %}}
+   {{% if repository.haspages %}
+     * [{{ repository.description }}](./{{ repository.name }}) 
+  {% endif %}}
 {% endfor %}
 
 
