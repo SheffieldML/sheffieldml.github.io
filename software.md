@@ -6,8 +6,8 @@ tagline: software from the group
 
 {% for repository in site.github.public_repositories %}
 {% if repository.has_pages %}
-{% assign tail = repository.name | split: '.' | last %} 
-{% if tail != 'io' %}
+{% if repository.name contains 'github.io' %}
+{% else %}
 * [{{ repository.description }}](./{{ repository.name }}/) ({{ repository.watchers_count }} watchers)
 {% endif %}
 {% endif %}
