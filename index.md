@@ -26,4 +26,3 @@ The group is always interested in good candidates for [research
 student](http://www.shef.ac.uk/dcs/postgrad/resdegrees/newphdhome.html)
 positions.
 
-This document last modified
