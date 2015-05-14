@@ -8,7 +8,7 @@ tagline: software from the group
    {% if repository.has_pages %}
 * [{{ repository.description }}](./{{ repository.name }}/) 
 {% for entry in repository %}
-entry
+{{ entry }}
 {% endfor %}
   {% endif %}
 {% endfor %}
