@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-tagline: Gaussian process software in python
+tagline: software from the group
 ---
 
 {% for repository in site.github.public_repositories %}
