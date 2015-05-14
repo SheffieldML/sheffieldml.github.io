@@ -5,26 +5,24 @@ tagline: talks from ML@SITraN
 ---
 
 
-Group Seminars
-
 * * * * *
 
 ### Machine learning approaches to change detection
 
-**Song Liu** - Tokyo Tech.\
- 18 March 2014, at 14:00 hrs.\
- SITraN, room B01.\
+**Song Liu** - Tokyo Tech.
+ 18 March 2014, at 14:00 hrs.
+ SITraN, room B01.
 
-\
- [Click here to see the slides.](./slides/2014-03-18-song-liu.pdf)
+
+[Click here to see the slides.](./slides/2014-03-18-song-liu.pdf)
 
 * * * * *
 
 ### Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget
 
-**Yutian Chen** - University of Cambridge.\
- 6 March 2014, at 10:30 hrs.\
- Barber House, room A19.\
+**Yutian Chen** - University of Cambridge.
+ 6 March 2014, at 10:30 hrs.
+ Barber House, room A19.
 
 Can we make Bayesian posterior MCMC sampling more efficient when faced
 with very large datasets? We argue that computing the likelihood for N
@@ -37,17 +35,16 @@ asymptotic bias, we show that this bias can be controlled and is more
 than offset by a decrease in variance due to our ability to draw more
 samples per unit of time.
 
-\
- [Click here to see the
-slides.](./slides/2014-03-06-yutian-austerityMCMC.pdf)
+
+[Click here to see the slides.](./slides/2014-03-06-yutian-austerityMCMC.pdf)
 
 * * * * *
 
 ### Maximum utility unitary coherent perception vs. the Bayesian brain
 
-**Charles Fox** - University of Sheffield.\
- 7 February 2014, at 10:30 hrs.\
- SITraN, room B03.\
+**Charles Fox** - University of Sheffield.
+ 7 February 2014, at 10:30 hrs.
+ SITraN, room B03.
 
 Our subjective experience of the world is 'unitary coherent' (UC).
 'Unitary' means we only perceive one interpretation at a time rather
@@ -65,17 +62,16 @@ the presence of utility bias in MU/UC perception: by changing the
 available actions we may be able to manipulate the subject's percept of
 a fixed ambiguous stimulus.
 
-\
- [Click here to see the
-article.](http://staffwww.dcs.shef.ac.uk/people/C.Fox/fox_unitary_coherent.pdf)
+
+[Click here to see the article.](http://staffwww.dcs.shef.ac.uk/people/C.Fox/fox_unitary_coherent.pdf)
 
 * * * * *
 
 ### Bayesian Machine Learning for Controlling Autonomous Systems
 
-**Marc Deisenroth** - Imperial College London / TU Darmstadt.\
- 17 January 2014, at 10:30 hrs.\
- Barber House, room A19.\
+**Marc Deisenroth** - Imperial College London / TU Darmstadt.
+ 17 January 2014, at 10:30 hrs.
+ Barber House, room A19.
 
 Autonomous learning has been a promising direction in control and
 robotics for more than a decade since learning models and controllers
@@ -106,17 +102,17 @@ successfully applied Bayesian optimization to learning controller
 parameters for a bipedal robot, where modeling the dynamics is very
 difficult due to ground contacts. Using Bayesian optimization, we
 sidestep this modeling issue and directly optimize the controller
-parameters without the need of modeling the robot's dynamics. \
- [Click here to see the
-slides.](./slides/2014-01-17-marc-deisenroth.pdf)
+parameters without the need of modeling the robot's dynamics. 
+
+[Click here to see the slides.](./slides/2014-01-17-marc-deisenroth.pdf)
 
 * * * * *
 
 ### Spatio-temporal Gaussian process modelling
 
-**Arno Solin** - Aalto University.\
- 15 November 2013, at 11:00 hrs.\
- SITraN, room B03.\
+**Arno Solin** - Aalto University.
+ 15 November 2013, at 11:00 hrs.
+ SITraN, room B03.
 
 Many physical and biological processes include both spatial and temporal
 features. Spatio-temporal modeling under the machine learning paradigm
@@ -135,17 +131,17 @@ temperature variation around the globe, noise in fMRI brain data, and
 rainfall data.
 
 Arno will also shortly present the state space methods that he has
-implemented in GPy during his visit. \
- [Click here to see the
-slides.](./slides/2013-11-19-Solin-Sheffield-1.pdf)
+implemented in GPy during his visit. 
+
+[Click here to see the slides.](./slides/2013-11-19-Solin-Sheffield-1.pdf)
 
 * * * * *
 
 ### Classical meets pop: Wiener filtering vs. Gaussian process regression
 
-**Simo Särkkä** - Aalto University.\
- 15 November 2013, at 14:00 hrs.\
- SITraN, room B03.\
+**Simo Särkkä** - Aalto University.
+ 15 November 2013, at 14:00 hrs.
+ SITraN, room B03.
 
 Wiener filtering and smoothing (Wiener, 1949) are concerned with
 estimation of values of a Gaussian process (or field), described via a
@@ -160,30 +156,29 @@ filtering and Gaussian process regression.
 
 ### On the reference predictive approach for covariate selection
 
-**Aki Vehtari** - Aalto University.\
- 6 November 2013, at 11:00 hrs.\
- SITraN, room B51.\
+**Aki Vehtari** - Aalto University.
+ 6 November 2013, at 11:00 hrs.
+ SITraN, room B51.
 
 * * * * *
 
 ### Gaussian process survival models
 
-**Aki Vehtari** - Aalto University.\
- 6 November 2013, at 16:00 hrs.\
- SITraN, room B01.\
- \
- [Click here to see the
-slides.](./slides/slides_varanasi_sheffield-1.pdf)
+**Aki Vehtari** - Aalto University.
+ 6 November 2013, at 16:00 hrs.
+ SITraN, room B01.
+ 
+[Click here to see the slides.](./slides/slides_varanasi_sheffield-1.pdf)
 
 * * * * *
 
 ### Smooth metric learning - in which manifold learning is about learning manifolds
 
-**Søren Hauberg** - Max Planck Institute for Intelligent Systems.\
+**Søren Hauberg** - Max Planck Institute for Intelligent Systems.
  In collaboration with: Oren Freifeld (MIT), Philipp Hennig (MPI-IS) and
-Michael Black (MPI-IS).\
- Thursday 10th of October, at 16:00 hrs.\
- SITraN, room B03.\
+Michael Black (MPI-IS).
+ Thursday 10th of October, at 16:00 hrs.
+ SITraN, room B03.
 
 Many modern machine learning techniques rely on the specification of an
 inner product (often in the form of a kernel), which allows us to
@@ -207,17 +202,17 @@ computational gains.
 
 ### Gaussian process modelling of multiple short time series
 
-**Antti Honkela** - Aalto University.\
- 18 June 2013, at 16:30 hrs.\
- SITraN, room B03.\
+**Antti Honkela** - Aalto University.
+ 18 June 2013, at 16:30 hrs.
+ SITraN, room B03.
 
 * * * * *
 
 ### Bayesian network inference for large scale data
 
-**Mattia Prosperi** - University of Manchester.\
- 14 May 2013, at 14:00 hrs.\
- SITraN, room B03.\
+**Mattia Prosperi** - University of Manchester.
+ 14 May 2013, at 14:00 hrs.
+ SITraN, room B03.
 
 Identification of prognostic factors/patterns and inference of
 prediction models from large data sets is a challenge, especially when
@@ -233,4 +228,3 @@ modelling approaches within a robust validation framework.
 
 * * * * *
 
-This document last modified
