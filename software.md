@@ -6,7 +6,6 @@ tagline: software from the group
 
 {% for repository in site.github.public_repositories %}
    {% if repository.has_pages %}
-{% if {{ repository.name | split: '.' | last }} == 'io' %}
 * [{{ repository.description }}](./{{ repository.name }}/) ({{ repository.watchers_count }} watchers)
 {% endif %}
 {% comment %}
@@ -14,7 +13,7 @@ tagline: software from the group
 {{ entry }}
 {% endfor %}
 {% endcomment %}
-  {% endif %}
+
 {% endfor %}
 
 
