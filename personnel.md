@@ -32,6 +32,7 @@ home page:
 
 ## Alumni
 
-- [Teo de Campos](http://www.dcs.shef.ac.uk/cgi-bin/makeperson?T.deCampos)
-- [Mu Niu](http://www.dcs.shef.ac.uk/cgi-bin/makeperson?M.Niu)
+- [Teo de Campos](http://personal.ee.surrey.ac.uk/Personal/T.Decampos/)
+- [Mu Niu](http://www.gla.ac.uk/schools/mathematicsstatistics/staff/muniu/)
 - [Nicolo Fusi](http://nicolofusi.com/)
+- [Alfredo Kalaitzis](https://www.ucl.ac.uk/statistics/people/alfredo-kalaitzis)
