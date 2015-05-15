@@ -25,7 +25,7 @@ home page:
 - [Ricardo Andrade Pacheco](http://www.dcs.shef.ac.uk/cgi-bin/makeperson?R.Andrade_Pacheco)
 - [Arif Rahman](http://www.dcs.shef.ac.uk/cgi-bin/makeperson?M.Rahman)
 - [Alan Saul](http://www.dcs.shef.ac.uk/cgi-bin/makeperson?A.Saul)
-- [Max Zwiessele](http://www.dcs.shef.ac.uk/cgi-bin/makeperson?M.Zwiessele)
+- [Max Zwiessele](http://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/)
 
 
 ## Alumni
