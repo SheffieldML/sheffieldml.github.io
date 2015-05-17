@@ -10,6 +10,10 @@ home page:
 ## Academics
 - [Neil Lawrence](http://inverseprobability.com/)
 
+## Research Software Engineers
+
+- [Mike Croucher](http://www.walkingrandomly.com/)
+
 ## Research Fellows
 
 - [James Hensman](http://staffwww.dcs.shef.ac.uk/people/J.Hensman/)
