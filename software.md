@@ -13,7 +13,7 @@ tagline: software from the group
 {% endif %}
 {% endfor %}
 
-
+Some of our software is also available on other pages such as [Neil's software page](http://inverseprobability.com/software.html) and the page of the [Open Data Science Initiative](http://opendsi.cc/software.html).
 
 ### History
 

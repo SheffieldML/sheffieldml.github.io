@@ -9,6 +9,7 @@ home page:
 
 ## Academics
 - [Neil Lawrence](http://inverseprobability.com/)
+- [John Quinn](http://air.ug/~jquinn/) (visiting Senior Lecturer)
 
 ## Research Software Engineers
 
