@@ -4,7 +4,7 @@ title: Software
 tagline: software from the group
 ---
 
-{% for repository in site.github.public_repositories %}
+{% for repository in ['GPy', 'GPc', 'GPmat', 'gprege', 'GPyOpt', 'notebook'] %}
 {% if repository.has_pages %}
 {% if repository.name contains 'github.io' %}
 {% else %}
