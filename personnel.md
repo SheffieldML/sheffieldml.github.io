@@ -29,7 +29,7 @@ home page:
 
 ## Research Students
 
-- [Ricardo Andrade Pacheco](http://www.dcs.shef.ac.uk/cgi-bin/makeperson?R.Andrade_Pacheco)
+- [Ricardo Andrade Pacheco](http://ric70x7.github.io)
 - [M. Arifur Rahman](http://people.juniv.edu/profile/arif)
 - [Alan Saul](http://www.alansaul.com/)
 - [Max Zwiessele](http://staffwww.dcs.sheffield.ac.uk/people/M.Zwiessele/)
