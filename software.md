@@ -12,6 +12,8 @@ tagline: software from the group
 
 This is now the home for our four GP software repositories, GPy, GPmat, GPc and gptk in Python, Matlab, C and R.
 
+There are also other MATLAB toolboxes hosted here, some of which will be folded into GPmat when time allows.
+
 {% for repository in site.github.public_repositories %}
 {% if repository.has_pages %}
 {% if repository.name contains 'github.io' %}
