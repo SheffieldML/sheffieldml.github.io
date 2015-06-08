@@ -10,6 +10,8 @@ tagline: software from the group
 
 ### Repositories
 
+This is now the home for our four GP software repositories, GPy, GPmat, GPc and gptk in Python, Matlab, C and R.
+
 {% for repository in site.github.public_repositories %}
 {% if repository.has_pages %}
 {% if repository.name contains 'github.io' %}
