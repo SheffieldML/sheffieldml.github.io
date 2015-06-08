@@ -21,6 +21,6 @@ This is now the home for our four GP software repositories, GPy, GPmat, GPc and 
 {% endif %}
 {% endfor %}
 
-Some of our software is also available on other pages such as [Neil's software page](http://inverseprobability.com/software.html) and the page of the [Open Data Science Initiative](http://opendsi.cc/software.html).
+Some of our software is also available on other pages such as [Neil's software page](http://inverseprobability.com/software.html) where you can find the original versions of our MATLAB toolbox (which were subdivided: kern, ivm, gp, etc.) and the page of the [Open Data Science Initiative](http://opendsi.cc/software.html).
 
 
