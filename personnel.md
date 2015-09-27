@@ -14,12 +14,16 @@ home page:
 ## Research Software Engineers
 
 - [Mike Croucher](http://www.walkingrandomly.com/)
-                                                                              
+
+## Research Fellow
+
+- [Luisa Cutillo](http://bioinformatics.tigem.it/cutillo)
+
 ## Research Associates
                               
 - [Zhenwen Dai](http://www.dcs.shef.ac.uk/cgi-bin/makeperson?Z.Dai)
 - [Andreas Damianou](http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html)
-- [Javier Gonzalez Hernandez](http://javiergonzalezh.github.io/)
+- [Javier González Hernandez](http://javiergonzalezh.github.io/)
 - [Michael Smith](http://www.michaeltsmith.org.uk/)
 
 ## Research Students
@@ -33,10 +37,10 @@ home page:
 ## Alumni
 
 - [James Hensman](http://chicas.lancaster-university.uk/people/hensman.html)
-- [Alessandra Tosi](http://www.cs.upc.edu/~atosi/)
+- [Alessandra Tosi](http://www.robots.ox.ac.uk/~atosi/index.html)
 - [Teo de Campos](http://personal.ee.surrey.ac.uk/Personal/T.Decampos/)
 - [Mu Niu](http://www.gla.ac.uk/schools/mathematicsstatistics/staff/muniu/)
-- [Nicolo Fusi](http://nicolofusi.com/)
+- [Nicoló Fusi](http://nicolofusi.com/)
 - [Alfredo Kalaitzis](https://www.ucl.ac.uk/statistics/people/alfredo-kalaitzis)
 - [Ciira wa Maina](https://sites.google.com/site/cwamainadekut/)
 - [Jie Hao](http://www.imperial.ac.uk/people/j.hao)
