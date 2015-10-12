@@ -16,10 +16,9 @@ There are also other MATLAB toolboxes hosted here, some of which will be folded 
 
 {% for repository in site.github.public_repositories %}
 {% if repository.has_pages %}
-{% if repository.name contains 'github.io' %}
-{% else %}
+{% unless repository.name contains 'github.io' %}
 * [**{{ repository.name }}**](./{{ repository.name }}/) {{ repository.description }} ({{ repository.watchers_count }} watchers)
-{% endif %}
+{% endunless %}
 {% endif %}
 {% endfor %}
 
