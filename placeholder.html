@@ -7,18 +7,18 @@
 
     <meta name="description" content="work in progress - placeholder" />
 
-    <title>machine learning at sheffield - coming soon</title>
+    <title>Machine Learning at Sheffield &ndash; coming soon</title>
 
     <style>
         body
         {
-            background-color:#f2f2f2;
+            background-color:#fff;
             font-family: "Arial", "Helvetica", sans-serif;
             line-height: 1.3em;
             font-size: 14pt;
             margin:0;
             padding:0;
-            color: #1a1a1a;
+            color: #000;
         }
 
         #main
@@ -30,7 +30,7 @@
 
         #main .block
         {
-            border-top:4px solid #1a1a1a;
+            border-top:4px solid #000;
             width:700px;
             padding: 20px 50px;
             min-height: 300px
@@ -56,6 +56,23 @@
             padding:10px 0;
         }
 
+        div.person
+        {
+            padding: 5px 0;
+        }
+
+        span.name
+        {
+            display:block;
+        }
+
+        span.description
+        {
+            display:block;
+            margin-left:1em;
+            font-style:italic;
+        }
+
     </style>
 
 </head>
@@ -63,15 +80,83 @@
     <div id="main">
         <div class="block" id="description">
             <div style="text-align:right; width:100%; margin-bottom:50px"><span class="heading">Machine Learning Research Group<br />University of Sheffield</span></div>
-            <p>
-                <i>description here</i><br />
-                <i>description here</i><br />
-                <i>description here</i><br />
-                <i>description here</i><br />
+            <p style="text-align:justify">
+                The <span style="font-style:italics">Machine Learning</span> group at the University of Sheffield aims to develop algorithms which automatically learn to recognize complex patterns in data, and use these to make intelligent decisions. We have gained an international reputation for research into the development of machine learning techniques and their application to a diverse range of modelling tasks.
             </p>
-            <span>
-                This site is currently a work in progress.
-            </span>
+            <p>
+                Our research covers three general areas, with examples:
+            </p>
+            <ol type="i" id="research">
+                <li>Learning Algorithms
+                    <ul class="examples">
+                        <li>Dimensionality Reduction</li>
+                        <li>Probabilistic Modelling</li>
+                        <li>Optimisation</li>
+                        <li>Statistical Learning</li>
+                    </ul>
+                </li>
+                <li>Applications
+                    <ul class="examples">
+                        <li>Personalised Health</li>
+                        <li>Computational Biology</li>
+                        <li>Computational Neuroscience</li>
+                    </ul>
+                </li>
+                <li>Ethics of AI
+                    <ul class="examples">
+                        <li>Data Legislation</li>
+                        <li>Responsible Innovation</li>
+                    </ul>
+                </li>
+            </ol>
+            <a style="text-decoration:none; color:#000;" href="https://www.sheffield.ac.uk/dcs/research/groups/machine-learning"><span style="font-weight:bold; text-align:center; display:block;">
+                This site is currently under construction.
+            </span></a>
+        </div>
+        <div class="block" id="people">
+            <span class="heading-2">Core Members</span>
+            <div class="person">
+                <span class="name">Prof Eleni Vasilaki (Head of Group)</span>
+                <span class="description">
+                    Professor of Computational Neuroscience and Neural Engineering</span>
+            </div>
+            <div class="person">
+                <span class="name">Prof Neil Lawrence (currently at Amazon Research)</span>
+                <span class="description">
+                    Professor of Computational Biology and Machine Learning
+                </span>
+            </div>
+            <div class="person">
+                <span class="name">Dr Amanda Sharkey</span>
+                <span class="description">Senior Lecturer</span>
+            </div>
+            <div class="person">
+                <span class="name">Dr Mike Croucher</span>
+                <span class="description">Senior Research Software Engineer</span>
+            </div>
+            <div class="person">
+                <span class="name">Dr Mauricio Alvarez</span>
+                <span class="description">Lecturer</span>
+            </div>
+            <div class="person">
+                <span class="name">Dr Haiping Lu</span>
+                <span class="description">Lecturer</span>
+            </div>
+        </div>
+        <div class="block" id="links">
+            <span class="heading-2">Software</span>
+            <div class="software">
+                <span>GPy</span> : <a href="https://sheffieldml.github.io/GPy/">https://sheffieldml.github.io/GPy/</a><br />
+                <span class="description">GPy is an open-source framework for Gaussian Processes (GP) written in Python</span>
+            </div>
+            <div class="software">
+                <span>GPyOpt</span> : <a href="https://sheffieldml.github.io/GPyOpt">https://sheffieldml.github.io/GPyOpt</a><br />
+                <span class="description">GPyOpt is an open-source library for Bayesian Optimization using GPy, written in Python</span>
+            </div>
+            <div class="software">
+                <span>Rodent Data Analytics (RODA)</span> : <a href="https://github.com/RodentDataAnalytics">https://github.com/RodentDataAnalytics</a><br />
+                <span class="description">A MATLAB suite of algorithms for the analysis and classification of trajectories of rodents in the Morris Water Maze</span>
+            </div>
         </div>
         <div class="block" id="contact">
             <span class="heading-2">Contact</span>
@@ -88,22 +173,6 @@
                 Tel: +44 (0)114 222 1800<br />
                 Fax: +44 (0)114 222 1810
             </p>
-        </div>
-        <div class="block" id="links">
-            <span class="heading-2">Software</span>
-            <div class="software">
-                <span>GPy</span> : <a href="https://sheffieldml.github.io/GPy/">https://sheffieldml.github.io/GPy/</a><br />
-                <i>description here</i>
-            </div>
-            <div class="software">
-                <span>GPyOpt</span> : <a href="https://sheffieldml.github.io/GPyOpt">https://sheffieldml.github.io/GPyOpt</a><br />
-                <i>description here</i>
-            </div>
-            <div class="software">
-                <span>RODA</span> : <a href="https://github.com/RodentDataAnalytics">https://github.com/RodentDataAnalytics</a><br />
-                <i>description here</i>
-            </div>
-
         </div>
     </div>
 </body>
